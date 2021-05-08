@@ -23,5 +23,8 @@ Data Visulaization:
 ![Screenshot (26)](https://user-images.githubusercontent.com/74133175/117539315-b31a7200-b027-11eb-8020-1ac8d6f8c56b.png)
 
 
+![Screenshot (27)](https://user-images.githubusercontent.com/74133175/117539363-f07eff80-b027-11eb-8622-b620f3e6071d.png)
+
+
 
 
