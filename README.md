@@ -18,6 +18,10 @@ Removing Duplicates:
 
 ![Screenshot (21)](https://user-images.githubusercontent.com/74133175/117539227-5919ac80-b027-11eb-8e44-ff2fa5aeb6ed.png)
 
+Data Visulaization:
+
+![Screenshot (26)](https://user-images.githubusercontent.com/74133175/117539315-b31a7200-b027-11eb-8020-1ac8d6f8c56b.png)
+
 
 
 
